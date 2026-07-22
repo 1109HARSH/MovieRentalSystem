@@ -1,7 +1,5 @@
 # MovieRentalSystem
 
-# Movie Rental System
-
 This is a Python Object-Oriented Programming (OOP) project developed to simulate a movie rental store. The system allows users to manage movies, customers, and rentals through a simple menu-driven interface while demonstrating core OOP concepts.
 
 ## What's the Project About?
